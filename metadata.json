@@ -1,0 +1,8 @@
+{
+  "name": "FlaminGo Restaurant",
+  "description": "Modern Filipino street food restaurant serving freshly prepared classics including Taho, Family FlaminGo Palabok, Takoyaki, and FlaminGo Specials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
